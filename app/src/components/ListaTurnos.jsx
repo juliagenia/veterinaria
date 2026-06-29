@@ -1,4 +1,3 @@
-// 🛠️ CORREGIDO: Línea 1 eliminada por completo
 import TurnoItem from './TurnoItem.jsx';
 
 function ListaTurnos({ turnos, onTurnoClick }) {
